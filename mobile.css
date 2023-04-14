@@ -1,0 +1,27 @@
+  mobile.css
+
+  * {
+    font-size: 50%; 
+  }
+
+
+  #yellow {
+    height: fit-content;
+    padding: 5px;
+  }
+
+  #orange {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column ;
+    background-color: #413658;
+    border-radius: 10px;
+    color: #f4db5c;
+    grid-area: orng;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    height: fit-content;
+    font-size: small;
+  }
