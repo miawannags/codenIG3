@@ -1,0 +1,38 @@
+desktop.css
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #back {
+    background-color: #413658;
+    color: #f4db5c;
+    padding: 5px;
+    border-radius: 50px;
+    width: fit-content;
+    font-size: small;
+  }
+  
+  #yellow {
+    height: fit-content;
+    padding: 5px;
+  }
+
+  #orange {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    background-color: #413658;
+    border-radius: 10px;
+    color: #f4db5c;
+    grid-area: orng;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    height: fit-content;
+    font-size: small;
+  }
+
+  
